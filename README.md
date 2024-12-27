@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing a course selling website<br>👯 I’m looking to collaborate on AI Lipsync model for an AI video generation company<br>💬 Ask me about websites and web applications<br>I am a Full-stack web developer 👨‍💻 
+🔭 I’m currently working on developing a course selling website<br>👯 I’m collaborating on AI Lipsync model for an AI video generation company<br>💬 Ask me about websites and web applications<br>I am a Full-stack web developer 👨‍💻 
 
 
 ## 🌐 Socials:
