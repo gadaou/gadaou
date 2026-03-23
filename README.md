@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache_seconds=1800)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=gadaou&repo=Dome&theme=dark&hide_border=false&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/pin/?username=gadaou&repo=n8n-gadaou.ai&theme=dark&hide_border=false&cache_seconds=1800)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gadaou&icon=0&color=0)](https://visitcount.itsvg.in)
